@@ -1,0 +1,12 @@
+{
+    "comps": [
+      {
+        "id": "20m",
+        "name": "2023 20m Nationals",
+        "short": "20m",
+        "task": "https://www.soaringspot.com/en_gb/20m-dual-seat-nationals-2023-corowa-2023/results/double-seater",
+        "colour": "#F20B13"
+      }
+    ],
+    "gliders": "https://raw.githubusercontent.com/NeilMC311/20m/main/gliders.json"
+}
