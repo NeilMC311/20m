@@ -1,2 +1,2 @@
 # joey23
-glideandseek filters for JoeyGlide2023
+glideandseek filters for 20m nationals
